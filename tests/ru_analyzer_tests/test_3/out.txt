@@ -1,0 +1,5 @@
+<'NUM', None, '1'>
+<'NUM', None, '2'>
+<'NUM', None, '3'>
+<'NUM', None, '4'>
+DIGITS:4
